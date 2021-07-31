@@ -1,0 +1,112 @@
+{
+  "novellia_version": 1,
+  "metadata": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ]
+  },
+  "token": {
+    "policy_id": "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772",
+    "asset_id": "GhostRotakin"
+  },
+  "details": {
+    "name": "Ghost Rotakin",
+    "description": {
+      "short": "Occulta Novellia Character",
+      "long": "A collectible character token for the surreal horror multiverse Occulta Novellia"
+    },
+    "tags": [
+      "Collectible Character"
+    ],
+    "commission": {
+      "name": "Rektangular Studios Inc.",
+      "address": "addr1qx75xtmw6wjj8lek99rqpzhapg2jrs8k3tca0j8tmj0pa5ew08lffp5n2kzt72ez93m5zev2v4fm9sawnrqnvllmyhmsaw65ye",
+      "percent": 0.02
+    },
+    "resource": [
+      {
+        "resource_id": "Card",
+        "description": "Low Resolution Card",
+        "priority": 0,
+        "multihash": "QmZ43MdtaZ98CHUcgS16mhjdm9CkVnRduMjmbFLR6tXiyv",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/5o285q0f9dqz/resource/card_low.jpg",
+          "ipfs://QmZ43MdtaZ98CHUcgS16mhjdm9CkVnRduMjmbFLR6tXiyv",
+          "sia://PAFIkGTYhJrCzUFNxfSkIMF_nfoeI9M1myRk2_3ZO3p1cQ"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Card",
+        "description": "High Resolution Card",
+        "priority": 1,
+        "multihash": "QmRHEcVudUTAegNRCXdmBq3a3WkkngTZRxbG6jsXJxBMgf",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/5o285q0f9dqz/resource/card.png",
+          "ipfs://QmRHEcVudUTAegNRCXdmBq3a3WkkngTZRxbG6jsXJxBMgf",
+          "sia://AADz5maASFMkF0Pn4xsRvnwEWMdkThRzqGzRmMq519a6Gw"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "Low Resolution Artwork",
+        "priority": 0,
+        "multihash": "QmXGjUZA6tEf3PWdmADfeJVEQnP7GkWLwE8zxxxta1Apix",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/5o285q0f9dqz/resource/artwork_low.jpg",
+          "ipfs://QmXGjUZA6tEf3PWdmADfeJVEQnP7GkWLwE8zxxxta1Apix",
+          "sia://DAC0wCeCbkh7Rz2EZKr7A2XyqLiu9lXDkZsuSvrmjk8-Zg"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "High Resolution Artwork",
+        "priority": 1,
+        "multihash": "QmR66RnBEFAmKLhWRTm1iM6C1RwJP6C1mwrr9L5jrDqG1N",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/5o285q0f9dqz/resource/artwork.png",
+          "ipfs://QmR66RnBEFAmKLhWRTm1iM6C1RwJP6C1mwrr9L5jrDqG1N",
+          "sia://AADZ3VYVgJUBS3lwLdGPPaO6GTJy-_TZgGvtgLL55uHetA"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "Video",
+        "description": "Video of artwork creation process",
+        "priority": 0,
+        "multihash": "QmXK4xgR28JuU7f743wuxQVEvx8ngFMNW5fSK1F1zmCGff",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/5o285q0f9dqz/resource/video.mp4",
+          "ipfs://QmXK4xgR28JuU7f743wuxQVEvx8ngFMNW5fSK1F1zmCGff",
+          "sia://AACG819Y6AmMRxrrVTWfugSZCGMSZTM9MJr05buVNTOrrQ"
+        ],
+        "content_type": "video/mp4"
+      },
+      {
+        "resource_id": "OccultaNovelliaCharacter",
+        "description": "Occulta Novellia collectible character information such as stats and moves",
+        "priority": 0,
+        "multihash": "QmWNRP42LrEW1xXb2ziiMeMXjBvrX3RBN5iW4VP8ESapCR",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/5o285q0f9dqz/resource/character.json",
+          "ipfs://QmWNRP42LrEW1xXb2ziiMeMXjBvrX3RBN5iW4VP8ESapCR",
+          "sia://AABIATywB4GOmny5PVmDY2GMih74X576Zs5SWborkMCGEA"
+        ],
+        "content_type": "application/json"
+      }
+    ]
+  }
+}

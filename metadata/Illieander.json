@@ -1,0 +1,41 @@
+{
+  "721": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ],
+    "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772": {
+      "Illieander": {
+        "id": 8,
+        "name": "Illieander",
+        "description": {
+          "short": "Occulta Novellia Character",
+          "long": "A character for the surreal horror multiverse Occulta Novellia"
+        },
+        "tags": [
+          "Collectible Character"
+        ],
+        "image": "ipfs://QmQ5q7JoWjmtfzCpBWLpN2JCZqrbzmgu8YYWWHcGp3Jbhe",
+        "resource": [
+          {
+            "resource_id": "Novellia",
+            "description": "Off-chain Novellia extended metadata",
+            "priority": 0,
+            "multihash": "QmTCcgzCP1NMrd9u7hg4AjZ7D4gujL3TUd38wjgA51c4UQ",
+            "hash_source_type": "ipfs",
+            "url": [
+              "https://api.rektangularstudios.com/static/b00e5t50blqp/nvla.json",
+              "ipfs://QmTCcgzCP1NMrd9u7hg4AjZ7D4gujL3TUd38wjgA51c4UQ",
+              "sia://CAA6YatrEbN8ACJIPAb-5R2H3EqUpy2YAdcPMnMHJMesMA"
+            ],
+            "content_type": "application/json"
+          }
+        ]
+      }
+    }
+  }
+}

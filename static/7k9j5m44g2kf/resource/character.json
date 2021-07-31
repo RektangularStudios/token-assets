@@ -1,0 +1,29 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Voyin",
+  "card": {
+    "number": 9,
+    "release_set": "Presale 1",
+    "rarity": "Not That Rare"
+  },
+  "progression": {
+    "class": "Voyin",
+    "stage": 1
+  },
+  "stats": {
+    "health": 8,
+    "attack": 4,
+    "move": 1,
+    "slots": 2
+  },
+  "attributes": [
+    "Creature",
+    "Bird",
+    "Swoop",
+    "Feign Death",
+    "Inedible",
+    "Fly"
+  ],
+  "description": "With fleshless wings, the shuttering sound of tearing cartilage and fracturing bone intensifies as the corpse-like Voyin appear from the skies above. Rotting from within, the stench of decay is inescapable as it approaches in pursuit of consumption. Its stature and morbid emanation leave few predators willing to hunt the Voyin."
+}

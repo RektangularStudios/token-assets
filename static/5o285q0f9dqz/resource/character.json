@@ -1,0 +1,28 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Ghost Rotakin",
+  "card": {
+    "number": 14,
+    "release_set": "Presale 1",
+    "rarity": "Rare"
+  },
+  "progression": {
+    "class": "Rotakin",
+    "stage": 2
+  },
+  "stats": {
+    "health": 6,
+    "attack": 20,
+    "move": 2
+  },
+  "attributes": [
+    "Creature",
+    "Ghost",
+    "Explode",
+    "Conceal",
+    "Emanation",
+    "Fly"
+  ],
+  "description": "Ghostly spheres wander the Grevan forests, often finding their way into rarely visited basements or abandoned structures. Though punishable with death, renegade Grevan operators often delve into them, hoping to discover some new talent. They leave a residue as they float, which evokes visions in those who dare make contact."
+}

@@ -1,0 +1,112 @@
+{
+  "novellia_version": 1,
+  "metadata": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ]
+  },
+  "token": {
+    "policy_id": "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772",
+    "asset_id": "GlacialDraculi"
+  },
+  "details": {
+    "name": "Glacial Draculi",
+    "description": {
+      "short": "Occulta Novellia Character",
+      "long": "A collectible character token for the surreal horror multiverse Occulta Novellia"
+    },
+    "tags": [
+      "Collectible Character"
+    ],
+    "commission": {
+      "name": "Rektangular Studios Inc.",
+      "address": "addr1qx75xtmw6wjj8lek99rqpzhapg2jrs8k3tca0j8tmj0pa5ew08lffp5n2kzt72ez93m5zev2v4fm9sawnrqnvllmyhmsaw65ye",
+      "percent": 0.02
+    },
+    "resource": [
+      {
+        "resource_id": "Card",
+        "description": "Low Resolution Card",
+        "priority": 0,
+        "multihash": "QmfSUuzaQz6HUqUE6s3XA5QYBppqdF3v5TeNoyz8PYtwmL",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/fv1qxxcvn9jm/resource/card_low.jpg",
+          "ipfs://QmfSUuzaQz6HUqUE6s3XA5QYBppqdF3v5TeNoyz8PYtwmL",
+          "sia://vAHD1-LjpIKJcEp0S6s_aDb3ZoGiQt8UtLKqTwX-u9NhlQ"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Card",
+        "description": "High Resolution Card",
+        "priority": 1,
+        "multihash": "QmPxet1ihRK6qAd4WBcjh83GV18A9neKQkYy8sfiJJfyzw",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/fv1qxxcvn9jm/resource/card.png",
+          "ipfs://QmPxet1ihRK6qAd4WBcjh83GV18A9neKQkYy8sfiJJfyzw",
+          "sia://AAC9Ipff3HYiv5poBM7V-LprbgM7i9jy2mhRb3eoKTB1qQ"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "Low Resolution Artwork",
+        "priority": 0,
+        "multihash": "QmSbUobZqzG18R14NHzXjHySQS82Bc6dBYBFJbK6q4rEe5",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/fv1qxxcvn9jm/resource/artwork_low.jpg",
+          "ipfs://QmSbUobZqzG18R14NHzXjHySQS82Bc6dBYBFJbK6q4rEe5",
+          "sia://7AAFFuhfnOx4Of_QMVJprg7GbS6jBCqzrjXHGD6rdTZzeg"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "High Resolution Artwork",
+        "priority": 1,
+        "multihash": "QmTkKspqP2qnt61AQmhG2WFUVsNtL3sJaJeLkE7xqFfo4L",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/fv1qxxcvn9jm/resource/artwork.png",
+          "ipfs://QmTkKspqP2qnt61AQmhG2WFUVsNtL3sJaJeLkE7xqFfo4L",
+          "sia://AACC7eAQFFjZ4bpgIZAxZCL0pd-oZEpGWxVjDKvyUX6pBg"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "Video",
+        "description": "Video of artwork creation process",
+        "priority": 0,
+        "multihash": "QmWhUXhyKMXPEYE4APbAjFJMEE2R9Ai2S2koXnfy5bq7Mn",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/fv1qxxcvn9jm/resource/video.mp4",
+          "ipfs://QmWhUXhyKMXPEYE4APbAjFJMEE2R9Ai2S2koXnfy5bq7Mn",
+          "sia://AAD0L99hQuOr8mKRdvoKJpf6qN--XdralXlEjkNEiIiBFw"
+        ],
+        "content_type": "video/mp4"
+      },
+      {
+        "resource_id": "OccultaNovelliaCharacter",
+        "description": "Occulta Novellia collectible character information such as stats and moves",
+        "priority": 0,
+        "multihash": "QmaPpQwd3rPghuwtdDCfrMsajfiVN2xtnjRGCjN6cF6eNG",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/fv1qxxcvn9jm/resource/character.json",
+          "ipfs://QmaPpQwd3rPghuwtdDCfrMsajfiVN2xtnjRGCjN6cF6eNG",
+          "sia://AAAj0m2ncWkU47jaNcM-0bc3BEx7Cx0jrkrvnoUO7rwD-A"
+        ],
+        "content_type": "application/json"
+      }
+    ]
+  }
+}

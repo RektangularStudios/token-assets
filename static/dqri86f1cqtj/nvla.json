@@ -1,0 +1,99 @@
+{
+  "novellia_version": 1,
+  "metadata": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ]
+  },
+  "token": {
+    "policy_id": "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772",
+    "asset_id": "CrypticCat"
+  },
+  "details": {
+    "name": "Cryptic Cat",
+    "description": {
+      "short": "Occulta Novellia Character",
+      "long": "A collectible character token for the surreal horror multiverse Occulta Novellia"
+    },
+    "tags": [
+      "Collectible Character"
+    ],
+    "commission": {
+      "name": "Rektangular Studios Inc.",
+      "address": "addr1qx75xtmw6wjj8lek99rqpzhapg2jrs8k3tca0j8tmj0pa5ew08lffp5n2kzt72ez93m5zev2v4fm9sawnrqnvllmyhmsaw65ye",
+      "percent": 0.02
+    },
+    "resource": [
+      {
+        "resource_id": "Card",
+        "description": "Low Resolution Card",
+        "priority": 0,
+        "multihash": "QmYZSynwoFpdZUGeAug6mH15jvnt3nb4rE8PgqenXpsVbg",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/dqri86f1cqtj/resource/card_low.jpg",
+          "ipfs://QmYZSynwoFpdZUGeAug6mH15jvnt3nb4rE8PgqenXpsVbg",
+          "https://siasky.net/PAGYBlBaTEIwAAstEUnGH-yDWUBCBHU4I_o8iBKSnjt2Ww"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Card",
+        "description": "High Resolution Card",
+        "priority": 1,
+        "multihash": "QmZWjHBvScumvxuHVPAdkbriVvKpzKwDkKrvQuqrUqgdYM",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/dqri86f1cqtj/resource/card.png",
+          "ipfs://QmZWjHBvScumvxuHVPAdkbriVvKpzKwDkKrvQuqrUqgdYM",
+          "sia://AADHRtwrnbU_eKUyVVkOHo8tcwz3QCocfarLZjvt_vBHuQ"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "Low Resolution Artwork",
+        "priority": 0,
+        "multihash": "QmS4MVyTRMGZzy6iCiMf2Qxt52PZxoc3uswwYVstNXGqAV",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/dqri86f1cqtj/resource/artwork_low.jpg",
+          "ipfs://QmS4MVyTRMGZzy6iCiMf2Qxt52PZxoc3uswwYVstNXGqAV",
+          "sia://rABh1KnpJMct9boyGCqAMuZt6jr5MvK87MOT0pSAbbHqbQ"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "High Resolution Artwork",
+        "priority": 1,
+        "multihash": "QmVMGJK55JYzPo88HC9C3ZfYXDa15gTpS4vuEyiBcvVvvF",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/dqri86f1cqtj/resource/artwork.png",
+          "ipfs://QmVMGJK55JYzPo88HC9C3ZfYXDa15gTpS4vuEyiBcvVvvF",
+          "sia://AABKBTMXPpYRCOqakdTKa3JJfwyGfkOvJL7U-hYYtrjgCw"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "OccultaNovelliaCharacter",
+        "description": "Occulta Novellia collectible character information such as stats and moves",
+        "priority": 0,
+        "multihash": "QmcQpbCHiGK4ictcppCmPbZXTTPW2tkiusth8xzd1qoieV",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/dqri86f1cqtj/resource/character.json",
+          "ipfs://QmcQpbCHiGK4ictcppCmPbZXTTPW2tkiusth8xzd1qoieV",
+          "sia://AAAHC0iUjqS3SowoevTtmi7hi5TLzzj4valmX9fztItG2Q"
+        ],
+        "content_type": "application/json"
+      }
+    ]
+  }
+}

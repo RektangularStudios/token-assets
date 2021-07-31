@@ -1,0 +1,29 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Cryptic Cat",
+  "card": {
+    "number": 13,
+    "release_set": "Presale 1",
+    "rarity": "Rare"
+  },
+  "progression": {
+    "class": "Cryptic Cat",
+    "stage": 1
+  },
+  "stats": {
+    "health": 12,
+    "attack": 3,
+    "move": 1,
+    "slots": 1
+  },
+  "attributes": [
+    "Creature",
+    "Cat",
+    "Claw",
+    "Pause",
+    "Agile",
+    "Gasoline"
+  ],
+  "description": "These stalkers wander Aphantasia, capturing humans to breed and sell on an underground market. A stun remote is used to immobilize humans, who are then brought to somewhere inexplicable and unknown. Presumably, travelling in numbers won't stop them. Many well-sized crowds have gone missing in or near Aphantasia."
+}

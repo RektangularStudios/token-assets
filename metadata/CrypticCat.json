@@ -1,0 +1,41 @@
+{
+  "721": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ],
+    "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772": {
+      "CrypticCat": {
+        "id": 13,
+        "name": "Cryptic Cat",
+        "description": {
+          "short": "Occulta Novellia Character",
+          "long": "A character for the surreal horror multiverse Occulta Novellia"
+        },
+        "tags": [
+          "Collectible Character"
+        ],
+        "image": "ipfs://QmYZSynwoFpdZUGeAug6mH15jvnt3nb4rE8PgqenXpsVbg",
+        "resource": [
+          {
+            "resource_id": "Novellia",
+            "description": "Off-chain Novellia extended metadata",
+            "priority": 0,
+            "multihash": "QmNqfUnPjftEw5zm79yKw79xHu3j9sXADM8roVtwMa3dD8",
+            "hash_source_type": "ipfs",
+            "url": [
+              "https://api.rektangularstudios.com/static/dqri86f1cqtj/nvla.json",
+              "ipfs://QmNqfUnPjftEw5zm79yKw79xHu3j9sXADM8roVtwMa3dD8",
+              "sia://AAAe5zeslITTbBJelT_nE375Bp_R5pYMIFhhX3KEo_r-1w"
+            ],
+            "content_type": "application/json"
+          }
+        ]
+      }
+    }
+  }
+}

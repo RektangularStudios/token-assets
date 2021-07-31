@@ -1,0 +1,28 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Phanamite Auto-Medic",
+  "card": {
+    "number": 5,
+    "release_set": "Presale 1",
+    "rarity": "Kinda Rare"
+  },
+  "progression": {
+    "class": "Phanamite Auto-Medic",
+    "stage": 1
+  },
+  "stats": {
+    "health": 8,
+    "attack": 1,
+    "move": 2,
+    "slots": 2
+  },
+  "attributes": [
+    "Phanamite",
+    "Automaton",
+    "Heal",
+    "Harvest",
+    "Area Heal"
+  ],
+  "description": "For the Phanamites, every life matters. Despite wealth inequalities, auto-medics prowl the cities of Phanamis and heal the sick. Unless you're missing a limb, because that'll cost something."
+}

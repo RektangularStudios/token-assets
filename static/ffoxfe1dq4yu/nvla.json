@@ -1,0 +1,112 @@
+{
+  "novellia_version": 1,
+  "metadata": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ]
+  },
+  "token": {
+    "policy_id": "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772",
+    "asset_id": "PhanamiteAutoMedic"
+  },
+  "details": {
+    "name": "Phanamite Auto-Medic",
+    "description": {
+      "short": "Occulta Novellia Character",
+      "long": "A collectible character token for the surreal horror multiverse Occulta Novellia"
+    },
+    "tags": [
+      "Collectible Character"
+    ],
+    "commission": {
+      "name": "Rektangular Studios Inc.",
+      "address": "addr1qx75xtmw6wjj8lek99rqpzhapg2jrs8k3tca0j8tmj0pa5ew08lffp5n2kzt72ez93m5zev2v4fm9sawnrqnvllmyhmsaw65ye",
+      "percent": 0.02
+    },
+    "resource": [
+      {
+        "resource_id": "Card",
+        "description": "Low Resolution Card",
+        "priority": 0,
+        "multihash": "QmYkwP2f4RRUDyUVR9s8u8iiYiEsb2myNZMvNLqdY4nDHf",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/ffoxfe1dq4yu/resource/card_low.jpg",
+          "ipfs://QmYkwP2f4RRUDyUVR9s8u8iiYiEsb2myNZMvNLqdY4nDHf",
+          "sia://vABN7pI1yYnqj0xSsbXaHuctE7p7SbOZG6ElOqeH_QEvaQ"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Card",
+        "description": "High Resolution Card",
+        "priority": 1,
+        "multihash": "QmNwjhjXGpphJ7JEVPs1SAfBjjDoW1d6rmrAuidnhay4hC",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/ffoxfe1dq4yu/resource/card.png",
+          "ipfs://QmNwjhjXGpphJ7JEVPs1SAfBjjDoW1d6rmrAuidnhay4hC",
+          "sia://AACPDup7qeLxE9oMHYq4mFsEOYOs23LoZWyrwXJVdKi6ig"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "Low Resolution Artwork",
+        "priority": 0,
+        "multihash": "QmdQGXsWFspdoH4qPDeHTifpeMYpUx47tcp6hULiZY3Bsk",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/ffoxfe1dq4yu/resource/artwork_low.jpg",
+          "ipfs://QmdQGXsWFspdoH4qPDeHTifpeMYpUx47tcp6hULiZY3Bsk",
+          "sia://rAA4BfD1OWRKrzYkxQlzyXoYTYcCzeG0ss75DoYfEGpM4A"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "High Resolution Artwork",
+        "priority": 1,
+        "multihash": "QmQiLybmgJHTXq3Fvp7A4b5ATbCrU9n2pHyfB3kJ9ikd9E",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/ffoxfe1dq4yu/resource/artwork.png",
+          "ipfs://QmQiLybmgJHTXq3Fvp7A4b5ATbCrU9n2pHyfB3kJ9ikd9E",
+          "sia://AACpv00YMgTfJEm5WiFgoFrKhwvRLKoWkyBvi97xxJAG3g"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "Video",
+        "description": "Video of artwork creation process",
+        "priority": 0,
+        "multihash": "QmUGhBENQmW6Ewd72U7pD2QHXATaqPx4ThSV1Sg8GzfzMa",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/ffoxfe1dq4yu/resource/video.mp4",
+          "ipfs://QmUGhBENQmW6Ewd72U7pD2QHXATaqPx4ThSV1Sg8GzfzMa",
+          "sia://AAA4MbzuuukeeHfTTDFCSpZrUotwQ1oLtzMn694sVybe_A"
+        ],
+        "content_type": "video/mp4"
+      },
+      {
+        "resource_id": "OccultaNovelliaCharacter",
+        "description": "Occulta Novellia collectible character information such as stats and moves",
+        "priority": 0,
+        "multihash": "QmStihozPveCCKXNWhjLiDb1R5qAae1r2LaFD1A3uz8qui",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/ffoxfe1dq4yu/resource/character.json",
+          "ipfs://QmStihozPveCCKXNWhjLiDb1R5qAae1r2LaFD1A3uz8qui",
+          "sia://AADiGNBy1TXZ4KOd6G3YJ9DAujYIwXeSZLo5jTq8-bACYw"
+        ],
+        "content_type": "application/json"
+      }
+    ]
+  }
+}

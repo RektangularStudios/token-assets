@@ -1,0 +1,30 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Laurence the Duelist",
+  "card": {
+    "number": 6,
+    "release_set": "Presale 1",
+    "rarity": "Not That Rare"
+  },
+  "progression": {
+    "class": "Laurence of Phanamis",
+    "stage": 1
+  },
+  "stats": {
+    "health": 12,
+    "attack": 6,
+    "move": 1,
+    "slots": 2
+  },
+  "attributes": [
+    "Phanamite",
+    "Human",
+    "Cyborg",
+    "Crippling Slash",
+    "Serrated Edge",
+    "Bloodrush",
+    "Autotech"
+  ],
+  "description": "Weaponized by the Master Engineer, his mecha-blade fuses bone and steel with eradication as its sole purpose. Stories linger of the agony he endured for this bio-reconstruction, but he has never felt serrated steel tearing through his flesh. Laurence has never felt the degradation of defeat."
+}

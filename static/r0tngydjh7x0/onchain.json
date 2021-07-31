@@ -1,0 +1,41 @@
+{
+  "721": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ],
+    "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772": {
+      "AlphaDraculi": {
+        "id": 3,
+        "name": "Alpha Draculi",
+        "description": {
+          "short": "Occulta Novellia Character",
+          "long": "A character for the surreal horror multiverse Occulta Novellia"
+        },
+        "tags": [
+          "Collectible Character"
+        ],
+        "image": "ipfs://QmTUkcUb2EHSw7Ptd52zeuKwgf8G4iVMczXJdMz8XN3dzd",
+        "resource": [
+          {
+            "resource_id": "Novellia",
+            "description": "Off-chain Novellia extended metadata",
+            "priority": 0,
+            "multihash": "QmdEN1b9xi5R44tssj5CojMBCwXYTh5P6pHKV6YcPogCXZ",
+            "hash_source_type": "ipfs",
+            "url": [
+              "https://api.rektangularstudios.com/static/r0tngydjh7x0/nvla.json",
+              "ipfs://QmdEN1b9xi5R44tssj5CojMBCwXYTh5P6pHKV6YcPogCXZ",
+              "sia://AAAG1QULaSR9sguw63RnlyGGDYsygLW8rbHlG-_kcf9IYQ"
+            ],
+            "content_type": "application/json"
+          }
+        ]
+      }
+    }
+  }
+}

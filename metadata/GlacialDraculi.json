@@ -1,0 +1,41 @@
+{
+  "721": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ],
+    "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772": {
+      "GlacialDraculi": {
+        "id": 12,
+        "name": "Glacial Draculi",
+        "description": {
+          "short": "Occulta Novellia Character",
+          "long": "A character for the surreal horror multiverse Occulta Novellia"
+        },
+        "tags": [
+          "Collectible Character"
+        ],
+        "image": "ipfs://QmfSUuzaQz6HUqUE6s3XA5QYBppqdF3v5TeNoyz8PYtwmL",
+        "resource": [
+          {
+            "resource_id": "Novellia",
+            "description": "Off-chain Novellia extended metadata",
+            "priority": 0,
+            "multihash": "QmPMx1hW8yTfjnxj7mR23BMMTSwidPs6BWuGi6jDkkrZyP",
+            "hash_source_type": "ipfs",
+            "url": [
+              "https://api.rektangularstudios.com/static/fv1qxxcvn9jm/nvla.json",
+              "ipfs://QmPMx1hW8yTfjnxj7mR23BMMTSwidPs6BWuGi6jDkkrZyP",
+              "sia://CAAJggIQ8eWpW0XSZ7Q5klRf_GcbEHC04-ZgTi7MUBz09A"
+            ],
+            "content_type": "application/json"
+          }
+        ]
+      }
+    }
+  }
+}

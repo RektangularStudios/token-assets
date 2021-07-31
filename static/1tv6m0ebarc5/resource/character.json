@@ -1,0 +1,29 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Grevan Ranger",
+  "card": {
+    "number": 10,
+    "release_set": "Presale 1",
+    "rarity": "Not That Rare"
+  },
+  "progression": {
+    "class": "Grevan Ranger",
+    "stage": 1
+  },
+  "stats": {
+    "health": 10,
+    "attack": 3,
+    "move": 2,
+    "slots": 1
+  },
+  "attributes": [
+    "Grevan",
+    "Human",
+    "Soldier",
+    "Rifle",
+    "Grenade",
+    "Sadist"
+  ],
+  "description": "\"Take point, you say? I didn't survive to be a ranger by being the pointman.\" The Grevan rangers aren't leading anything. They're for the spoils. A ranger's abilities can usually be inferred from the number of zip ties on his belt."
+}

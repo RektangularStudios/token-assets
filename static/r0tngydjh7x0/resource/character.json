@@ -1,0 +1,29 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Alpha Draculi",
+  "card": {
+    "number": 3,
+    "release_set": "Presale 1",
+    "rarity": "Kinda Rare"
+  },
+  "progression": {
+    "class": "Alpha Draculi",
+    "stage": 1
+  },
+  "stats": {
+    "health": 15,
+    "attack": 5,
+    "move": 2,
+    "slots": 2
+  },
+  "attributes": [
+    "Creature",
+    "Serpent",
+    "Lava Blast",
+    "Fire Fang",
+    "Flame Aura",
+    "Lava Trail"
+  ],
+  "description": "The Draculi prowl beyond the Garden of Residues' waters. Their superior brethren roam the land afar. Accumulated en masse, they writhe during the scout for flesh. Birthed with a rare, fiery genetic mutation, the Alpha Draculi glorify the taste of blood. Their preference for a slow death is evident, often by prolonging the bloodletting of victims within their tightened jaws."
+}

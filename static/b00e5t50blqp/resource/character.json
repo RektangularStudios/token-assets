@@ -1,0 +1,28 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Illieander",
+  "card": {
+    "number": 8,
+    "release_set": "Presale 1",
+    "rarity": "Not That Rare"
+  },
+  "progression": {
+    "class": "Illieander",
+    "stage": 1
+  },
+  "stats": {
+    "health": 8,
+    "attack": 1,
+    "move": 1,
+    "slots": 2
+  },
+  "attributes": [
+    "Creature",
+    "Insect",
+    "Mandibles",
+    "Poisonous",
+    "Fly"
+  ],
+  "description": "A viscous fluid coats its hypnotizing and multicolour skin. The substance immobilizes victims while the Illieander's poisonous barbs, lining their spine and limbs, shut down their vital organs. The Illieander can take flight to strike from above, or move invisibly among the tall grass, leaving but a split second before their malicious pincers lacerate their prey."
+}

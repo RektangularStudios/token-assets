@@ -1,0 +1,41 @@
+{
+  "721": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ],
+    "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772": {
+      "GhostRotakin": {
+        "id": 14,
+        "name": "Ghost Rotakin",
+        "description": {
+          "short": "Occulta Novellia Character",
+          "long": "A character for the surreal horror multiverse Occulta Novellia"
+        },
+        "tags": [
+          "Collectible Character"
+        ],
+        "image": "ipfs://QmZ43MdtaZ98CHUcgS16mhjdm9CkVnRduMjmbFLR6tXiyv",
+        "resource": [
+          {
+            "resource_id": "Novellia",
+            "description": "Off-chain Novellia extended metadata",
+            "priority": 0,
+            "multihash": "QmfQasiqRTYGkqzDYc8bdJVPqH1jhmQVCXE5vqoTrz9QJL",
+            "hash_source_type": "ipfs",
+            "url": [
+              "https://api.rektangularstudios.com/static/5o285q0f9dqz/nvla.json",
+              "ipfs://QmfQasiqRTYGkqzDYc8bdJVPqH1jhmQVCXE5vqoTrz9QJL",
+              "sia://CACV_7zHFXR61lvFshzz8WCxOWW0nhs8JIanrVsHu5GdIA"
+            ],
+            "content_type": "application/json"
+          }
+        ]
+      }
+    }
+  }
+}

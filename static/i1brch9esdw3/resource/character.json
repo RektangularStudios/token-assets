@@ -1,0 +1,28 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Draculi",
+  "card": {
+    "number": 1,
+    "release_set": "Presale 1",
+    "rarity": "Kinda Rare"
+  },
+  "progression": {
+    "class": "Draculi",
+    "stage": 1
+  },
+  "stats": {
+    "health": 10,
+    "attack": 3,
+    "move": 1,
+    "slots": 1
+  },
+  "attributes": [
+    "Creature",
+    "Serpent",
+    "Bite",
+    "Agile",
+    "Swim"
+  ],
+  "description": "The Draculi are swift serpents with protruding and malignant jaws. Amongst their array of teeth lay life draining fangs primed for liquid crimson indulgence. They emerge from the watery void within the Garden of Residues. A red hue envelops the Draculi, enticing prey and preparing them for extinction."
+}

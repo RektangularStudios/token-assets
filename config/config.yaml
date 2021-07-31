@@ -1,0 +1,28 @@
+# use `ulid` for IDs
+include_cards: [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
+organization_name: Rektangular Studios Inc.
+organization_id: ORG-01F45PHP58QWYSWJPFC0RYYGJ2
+market_name: Occulta Novellia
+market_id: MKT-01F45PJXRNEM8V7CP48NR39639
+policy_id: d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772
+max_order_size: 5
+commission_name: Rektangular Studios Inc.
+commission_address: addr1qx75xtmw6wjj8lek99rqpzhapg2jrs8k3tca0j8tmj0pa5ew08lffp5n2kzt72ez93m5zev2v4fm9sawnrqnvllmyhmsaw65ye
+commission_percent: 0.02
+price_currency: ada
+price_rare: 
+price_kinda_rare: 17
+price_not_that_rare: 8
+occulta_novellia_version: 1
+novellia_version: 1
+product_version: 1
+tags: ["Collectible Character"]
+tags_bundle: ["Bundle"]
+extension: ["novellia_1"]
+copyright: Copyright Rektangular Studios Inc.; all rights reserved
+publisher: ["https://rektangularstudios.com"]
+description_short: Occulta Novellia Character
+description_long: A collectible character token for the surreal horror multiverse Occulta Novellia
+description_long_metadata: A character for the surreal horror multiverse Occulta Novellia
+description_short_bundle: An Occulta Novellia character bundle
+static_host: https://api.rektangularstudios.com/static

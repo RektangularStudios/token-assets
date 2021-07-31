@@ -1,0 +1,29 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Zragnirr",
+  "card": {
+    "number": 7,
+    "release_set": "Presale 1",
+    "rarity": "Not That Rare"
+  },
+  "progression": {
+    "class": "Zragnirr",
+    "stage": 1
+  },
+  "stats": {
+    "health": 30,
+    "attack": 6,
+    "move": 3,
+    "slots": 4
+  },
+  "attributes": [
+    "Creature",
+    "Dragon",
+    "Lacerate",
+    "Chomp",
+    "Fly",
+    "Swim"
+  ],
+  "description": "They're a vile weave of archaic and aquatic reptilian. Their bodies are hardened, eyeless from enduring tsunamis that ravage any soft flesh. They stock the sea stacks surrounding the Operator's Fortress, bewildering anything that dares to come near. The Operator's Guild finds it's safer to evade the giants than stand their ground to fight."
+}

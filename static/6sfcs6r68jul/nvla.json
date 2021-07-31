@@ -1,0 +1,112 @@
+{
+  "novellia_version": 1,
+  "metadata": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ]
+  },
+  "token": {
+    "policy_id": "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772",
+    "asset_id": "Zragnirr"
+  },
+  "details": {
+    "name": "Zragnirr",
+    "description": {
+      "short": "Occulta Novellia Character",
+      "long": "A collectible character token for the surreal horror multiverse Occulta Novellia"
+    },
+    "tags": [
+      "Collectible Character"
+    ],
+    "commission": {
+      "name": "Rektangular Studios Inc.",
+      "address": "addr1qx75xtmw6wjj8lek99rqpzhapg2jrs8k3tca0j8tmj0pa5ew08lffp5n2kzt72ez93m5zev2v4fm9sawnrqnvllmyhmsaw65ye",
+      "percent": 0.02
+    },
+    "resource": [
+      {
+        "resource_id": "Card",
+        "description": "Low Resolution Card",
+        "priority": 0,
+        "multihash": "Qmf2gK65FgR3YfGwxqaXZrjLWfV6KnmBjKt5CrMm7TvN8U",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/6sfcs6r68jul/resource/card_low.jpg",
+          "ipfs://Qmf2gK65FgR3YfGwxqaXZrjLWfV6KnmBjKt5CrMm7TvN8U",
+          "sia://PAHBjBfVVMqzHX59PRE5tdmp_KI9VHlDhverHIw25CsHCQ"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Card",
+        "description": "High Resolution Card",
+        "priority": 1,
+        "multihash": "QmWpvS7rQJh1pKVmgyPNcCyjcaToUZWgij9p5gkNemXnb3",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/6sfcs6r68jul/resource/card.png",
+          "ipfs://QmWpvS7rQJh1pKVmgyPNcCyjcaToUZWgij9p5gkNemXnb3",
+          "sia://AAB9b9Hg3HZy1a8udSmHE0AUdErdOQ5OKtjda7XxGn-nrQ"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "Low Resolution Artwork",
+        "priority": 0,
+        "multihash": "QmehcF3emKvBCVJyvXYgxQam8C4d5AsyTMfmB5GpAv7iZq",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/6sfcs6r68jul/resource/artwork_low.jpg",
+          "ipfs://QmehcF3emKvBCVJyvXYgxQam8C4d5AsyTMfmB5GpAv7iZq",
+          "sia://rADYwhupMhfWArDAgKqfmKdulm6oQbCiwidsMx35pMtLnQ"
+        ],
+        "content_type": "image/jpeg"
+      },
+      {
+        "resource_id": "Artwork",
+        "description": "High Resolution Artwork",
+        "priority": 1,
+        "multihash": "QmWtjDZEUcFfkhkgRexFW68WdSEZL4rLSAL8emrMtmgy8W",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/6sfcs6r68jul/resource/artwork.png",
+          "ipfs://QmWtjDZEUcFfkhkgRexFW68WdSEZL4rLSAL8emrMtmgy8W",
+          "sia://AAC2BVKRKW08QEbPskaTN-00CcnRPOM5nrBeawGWzKSo6Q"
+        ],
+        "content_type": "image/png"
+      },
+      {
+        "resource_id": "Video",
+        "description": "Video of artwork creation process",
+        "priority": 0,
+        "multihash": "QmaqApmy7y5yYKrWjPyk9VnJMeVLFgtziCndJiLwvLWTLc",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/6sfcs6r68jul/resource/video.mp4",
+          "ipfs://QmaqApmy7y5yYKrWjPyk9VnJMeVLFgtziCndJiLwvLWTLc",
+          "sia://AAAAbFbusK5GJ7eaBoEwnu1DzEo7Y1GO575wKaH3Jk7unA"
+        ],
+        "content_type": "video/mp4"
+      },
+      {
+        "resource_id": "OccultaNovelliaCharacter",
+        "description": "Occulta Novellia collectible character information such as stats and moves",
+        "priority": 0,
+        "multihash": "QmeDv942SkbJCD5CBqtFStJGjLzy1QksqnBH6aoyXVi8xk",
+        "hash_source_type": "ipfs",
+        "url": [
+          "https://api.rektangularstudios.com/static/6sfcs6r68jul/resource/character.json",
+          "ipfs://QmeDv942SkbJCD5CBqtFStJGjLzy1QksqnBH6aoyXVi8xk",
+          "sia://AACKmJfbzsRzQ5vzr_DOcJEUooc39n2xXWItgwVFHIjRhA"
+        ],
+        "content_type": "application/json"
+      }
+    ]
+  }
+}

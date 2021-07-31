@@ -1,0 +1,29 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Ten Thousand Guns",
+  "card": {
+    "number": 11,
+    "release_set": "Presale 1",
+    "rarity": "Not That Rare"
+  },
+  "progression": {
+    "class": "Ten",
+    "stage": 1
+  },
+  "stats": {
+    "health": 20,
+    "attack": 4,
+    "move": 1,
+    "slots": 4
+  },
+  "attributes": [
+    "Operator's Guild",
+    "Horror",
+    "Flux",
+    "Possess",
+    "Operator",
+    "Sadist"
+  ],
+  "description": "The stories say Aphantasia was once livable, but at the eclipse of ten thousand guns firing in unison, a war became sentient. The bullets and gore had become so vivid that an entity identified itself with them. Only it didn't die with the battle's participants."
+}

@@ -1,0 +1,41 @@
+{
+  "721": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ],
+    "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772": {
+      "PhanamiteAutoMedic": {
+        "id": 5,
+        "name": "Phanamite Auto-Medic",
+        "description": {
+          "short": "Occulta Novellia Character",
+          "long": "A character for the surreal horror multiverse Occulta Novellia"
+        },
+        "tags": [
+          "Collectible Character"
+        ],
+        "image": "ipfs://QmYkwP2f4RRUDyUVR9s8u8iiYiEsb2myNZMvNLqdY4nDHf",
+        "resource": [
+          {
+            "resource_id": "Novellia",
+            "description": "Off-chain Novellia extended metadata",
+            "priority": 0,
+            "multihash": "QmbiQhxpLahoY4tg9ikaSUeeKiKgH171mnR9qAVC4QGbNS",
+            "hash_source_type": "ipfs",
+            "url": [
+              "https://api.rektangularstudios.com/static/ffoxfe1dq4yu/nvla.json",
+              "ipfs://QmbiQhxpLahoY4tg9ikaSUeeKiKgH171mnR9qAVC4QGbNS",
+              "sia://CACIdbnq5ojUSMJ_Dfe0_e40GbYC7atw8QmFaegCZbp-mg"
+            ],
+            "content_type": "application/json"
+          }
+        ]
+      }
+    }
+  }
+}

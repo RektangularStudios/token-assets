@@ -1,0 +1,41 @@
+{
+  "721": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ],
+    "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772": {
+      "TenThousandGuns": {
+        "id": 11,
+        "name": "Ten Thousand Guns",
+        "description": {
+          "short": "Occulta Novellia Character",
+          "long": "A character for the surreal horror multiverse Occulta Novellia"
+        },
+        "tags": [
+          "Collectible Character"
+        ],
+        "image": "ipfs://QmSeSYSRVeMMuiX3xxBNPANB9v3bMMu54MTfEFnGkFq3Ho",
+        "resource": [
+          {
+            "resource_id": "Novellia",
+            "description": "Off-chain Novellia extended metadata",
+            "priority": 0,
+            "multihash": "QmYtFnAdvidDkrfgf54QcjrfZF8EHhgmUgj1xVcenyvzE6",
+            "hash_source_type": "ipfs",
+            "url": [
+              "https://api.rektangularstudios.com/static/fndrm9lug64t/nvla.json",
+              "ipfs://QmYtFnAdvidDkrfgf54QcjrfZF8EHhgmUgj1xVcenyvzE6",
+              "sia://CAAYJHxMjnhvLSb7m-zVCG7tLkCQokPEWso5AhGwYeEkFQ"
+            ],
+            "content_type": "application/json"
+          }
+        ]
+      }
+    }
+  }
+}

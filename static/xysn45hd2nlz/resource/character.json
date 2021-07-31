@@ -1,0 +1,30 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Iscara the Ten Thousand Guns",
+  "card": {
+    "number": 2,
+    "release_set": "Presale 1",
+    "rarity": "Kinda Rare"
+  },
+  "progression": {
+    "class": "Iscara of Grevania",
+    "stage": 1
+  },
+  "stats": {
+    "health": 6,
+    "attack": 8,
+    "move": 1,
+    "slots": 2
+  },
+  "attributes": [
+    "Operator's Guild",
+    "Human",
+    "Tainted",
+    "Rifle",
+    "Sure Shot",
+    "Operator",
+    "Ten Thousand Guns"
+  ],
+  "description": "Whispers depict the leader of the Operator's Guild as being possessed by a demonic entity; she is unable to feel the grip of death. The Grevans refuse to acknowledge her humanity, referring to her as Ten Thousand Guns. Children out past dawn is unthinkable, as all know the pretty woman in a dress will rip them from the arms of any hopeless and deranged parent."
+}

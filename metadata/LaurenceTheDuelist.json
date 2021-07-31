@@ -1,0 +1,41 @@
+{
+  "721": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ],
+    "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772": {
+      "LaurenceTheDuelist": {
+        "id": 6,
+        "name": "Laurence the Duelist",
+        "description": {
+          "short": "Occulta Novellia Character",
+          "long": "A character for the surreal horror multiverse Occulta Novellia"
+        },
+        "tags": [
+          "Collectible Character"
+        ],
+        "image": "ipfs://QmdHUwSSDXhGaHwY59qdGcco9JrdveiqXpwBep7S7fLgNg",
+        "resource": [
+          {
+            "resource_id": "Novellia",
+            "description": "Off-chain Novellia extended metadata",
+            "priority": 0,
+            "multihash": "Qma6jhordcEfSaMhkxpRxnzJcujzd9HTsj2jWzKdupdKBd",
+            "hash_source_type": "ipfs",
+            "url": [
+              "https://api.rektangularstudios.com/static/gd4nvsptjpjx/nvla.json",
+              "ipfs://Qma6jhordcEfSaMhkxpRxnzJcujzd9HTsj2jWzKdupdKBd",
+              "sia://AACyHwWXXBphMK8QSzZHD8A1lFf6MBjeM3l24tSvOsI76w"
+            ],
+            "content_type": "application/json"
+          }
+        ]
+      }
+    }
+  }
+}

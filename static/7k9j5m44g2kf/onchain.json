@@ -1,0 +1,41 @@
+{
+  "721": {
+    "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+    "publisher": [
+      "https://rektangularstudios.com"
+    ],
+    "version": 1,
+    "extension": [
+      "novellia_1"
+    ],
+    "d27dadf7c5f24bfe9e377927c2d811d63d19222e1a53bb50cbb51772": {
+      "Voyin": {
+        "id": 9,
+        "name": "Voyin",
+        "description": {
+          "short": "Occulta Novellia Character",
+          "long": "A character for the surreal horror multiverse Occulta Novellia"
+        },
+        "tags": [
+          "Collectible Character"
+        ],
+        "image": "ipfs://QmbqfDZJydCxeLPtLu8TzXJvR8w2rmv7NAsS2vbX7xPPVe",
+        "resource": [
+          {
+            "resource_id": "Novellia",
+            "description": "Off-chain Novellia extended metadata",
+            "priority": 0,
+            "multihash": "QmQkMzitF5wpsZt5rEcCxNXiNU9Di4eFEo5YRMB1HKDLTT",
+            "hash_source_type": "ipfs",
+            "url": [
+              "https://api.rektangularstudios.com/static/7k9j5m44g2kf/nvla.json",
+              "ipfs://QmQkMzitF5wpsZt5rEcCxNXiNU9Di4eFEo5YRMB1HKDLTT",
+              "sia://CAAoj3bYfV1jxsLxRAzSHYTn1b0kEzOB0dTFTlVQI9iTTw"
+            ],
+            "content_type": "application/json"
+          }
+        ]
+      }
+    }
+  }
+}

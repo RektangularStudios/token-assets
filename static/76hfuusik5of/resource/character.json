@@ -1,0 +1,29 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Rotakin",
+  "card": {
+    "number": 4,
+    "release_set": "Presale 1",
+    "rarity": "Kinda Rare"
+  },
+  "progression": {
+    "class": "Rotakin",
+    "stage": 1
+  },
+  "stats": {
+    "health": 5,
+    "attack": 20,
+    "move": 1,
+    "slots": 1
+  },
+  "attributes": [
+    "Creature",
+    "Energy",
+    "Explode",
+    "Recharge",
+    "Illuminate",
+    "Fly"
+  ],
+  "description": "Misshapen orbs of golden light tinge the streets of the Phanamites' capital city. The poor suffer and succumb to necrosis while the rich embolden themselves with machines. Engineers use the Rotakin to power their inventions: automatons and cybernetic implants alike. Critical for society, yet their origins remain unknown."
+}

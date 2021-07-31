@@ -1,0 +1,28 @@
+{
+  "occulta_novellia_version": 1,
+  "copyright": "Copyright Rektangular Studios Inc.; all rights reserved",
+  "name": "Glacial Draculi",
+  "card": {
+    "number": 12,
+    "release_set": "Presale 1",
+    "rarity": "Rare"
+  },
+  "progression": {
+    "class": "Draculi",
+    "stage": 2
+  },
+  "stats": {
+    "health": 15,
+    "attack": 6,
+    "move": 1
+  },
+  "attributes": [
+    "Creature",
+    "Serpent",
+    "Bite",
+    "Siren",
+    "Agile",
+    "Freezing"
+  ],
+  "description": "The bitter frost of the Garden of Residues had left little in the way of opportunity for habitation. Deep within the caves, the Glacial Draculi grasp onto the heat of the underground, enveloping cave system walls. Those unfortunate enough to enter are quickly blocked off from escaping. Following this, the Draculi concentrate in a swelling tide, swallowing all foreign life."
+}
