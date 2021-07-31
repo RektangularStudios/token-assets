@@ -1,4 +1,4 @@
-# Presale Assets
+# Token Assets
 
 This repository contains the "final" assets to be deployed during the first Occulta Novellia collectible sale.
 
